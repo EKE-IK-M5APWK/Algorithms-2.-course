@@ -1,0 +1,7 @@
+F:\GitHub\Algoritmusok_2\Masodik_beadando\Ketiranyu_Lancolt_Lista\Ketiranyu_Lancolt_Lista\bin\Debug\Ketiranyu_Lancolt_Lista.exe.config
+F:\GitHub\Algoritmusok_2\Masodik_beadando\Ketiranyu_Lancolt_Lista\Ketiranyu_Lancolt_Lista\bin\Debug\Ketiranyu_Lancolt_Lista.exe
+F:\GitHub\Algoritmusok_2\Masodik_beadando\Ketiranyu_Lancolt_Lista\Ketiranyu_Lancolt_Lista\bin\Debug\Ketiranyu_Lancolt_Lista.pdb
+F:\GitHub\Algoritmusok_2\Masodik_beadando\Ketiranyu_Lancolt_Lista\Ketiranyu_Lancolt_Lista\obj\Debug\Ketiranyu_Lancolt_Lista.csprojAssemblyReference.cache
+F:\GitHub\Algoritmusok_2\Masodik_beadando\Ketiranyu_Lancolt_Lista\Ketiranyu_Lancolt_Lista\obj\Debug\Ketiranyu_Lancolt_Lista.csproj.CoreCompileInputs.cache
+F:\GitHub\Algoritmusok_2\Masodik_beadando\Ketiranyu_Lancolt_Lista\Ketiranyu_Lancolt_Lista\obj\Debug\Ketiranyu_Lancolt_Lista.exe
+F:\GitHub\Algoritmusok_2\Masodik_beadando\Ketiranyu_Lancolt_Lista\Ketiranyu_Lancolt_Lista\obj\Debug\Ketiranyu_Lancolt_Lista.pdb

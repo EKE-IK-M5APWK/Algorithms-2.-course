@@ -8,3 +8,13 @@ F:\GitHub\FatRajzol_M5APWK\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.csproj.Ge
 F:\GitHub\FatRajzol_M5APWK\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.csproj.CoreCompileInputs.cache
 F:\GitHub\FatRajzol_M5APWK\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.exe
 F:\GitHub\FatRajzol_M5APWK\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.pdb
+F:\GitHub\Algoritmusok_2\Elso_beadando\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.csprojAssemblyReference.cache
+F:\GitHub\Algoritmusok_2\Elso_beadando\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.Form1.resources
+F:\GitHub\Algoritmusok_2\Elso_beadando\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.Properties.Resources.resources
+F:\GitHub\Algoritmusok_2\Elso_beadando\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.csproj.GenerateResource.cache
+F:\GitHub\Algoritmusok_2\Elso_beadando\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.csproj.CoreCompileInputs.cache
+F:\GitHub\Algoritmusok_2\Elso_beadando\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.exe
+F:\GitHub\Algoritmusok_2\Elso_beadando\FatRajzol_M5APWK\obj\Debug\FatRajzol_M5APWK.pdb
+F:\GitHub\Algoritmusok_2\Elso_beadando\FatRajzol_M5APWK\bin\Debug\FatRajzol_M5APWK.exe.config
+F:\GitHub\Algoritmusok_2\Elso_beadando\FatRajzol_M5APWK\bin\Debug\FatRajzol_M5APWK.exe
+F:\GitHub\Algoritmusok_2\Elso_beadando\FatRajzol_M5APWK\bin\Debug\FatRajzol_M5APWK.pdb
